@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././cello/cello.h
+
+.././frunzik/frunzik.h
+
+.././include/func01.h
+
+../local/include/local.h
+
+/mnt/d/dev/cmake/fruncellompc.c
+stdio.h
+-
+config.h
+/mnt/d/dev/cmake/config.h
+func01.h
+/mnt/d/dev/cmake/func01.h
+frunzik.h
+/mnt/d/dev/cmake/frunzik.h
+cello.h
+/mnt/d/dev/cmake/cello.h
+local.h
+/mnt/d/dev/cmake/local.h
+
+/mnt/d/dev/cmake/local/src/local.c
+stdio.h
+-
+local.h
+/mnt/d/dev/cmake/local/src/local.h
+
+/mnt/d/dev/cmake/src/func01.c
+stdio.h
+-
+func01.h
+/mnt/d/dev/cmake/src/func01.h
+
+config.h
+

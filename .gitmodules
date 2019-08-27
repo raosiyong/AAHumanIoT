@@ -1,0 +1,15 @@
+[submodule "Cello"]
+	path = Cello
+	url = https://github.com/raosiyong/Cello.git
+[submodule "mpc"]
+	path = mpc
+	url = https://github.com/raosiyong/mpc.git
+[submodule "frunzik"]
+	path = frunzik
+	url = https://github.com/raosiyong/frunzik.git
+[submodule "BuildYourOwnLisp"]
+	path = BuildYourOwnLisp
+	url = https://github.com/raosiyong/BuildYourOwnLisp.git
+[submodule "cocoOS"]
+	path = cocoOS
+	url = https://github.com/raosiyong/cocoOS.git

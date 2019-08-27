@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libfrunzik.so -o libfrunzik.so CMakeFiles/frunzik.dir/frunzik.c.o 

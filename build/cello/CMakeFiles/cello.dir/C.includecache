@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/dev/cmake/cello/cello.c
+stdio.h
+-
+cello.h
+/mnt/d/dev/cmake/cello/cello.h
+
+/mnt/d/dev/cmake/cello/cello.h
+

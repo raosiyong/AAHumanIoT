@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libcello.so -o libcello.so CMakeFiles/cello.dir/cello.c.o 

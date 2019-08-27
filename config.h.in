@@ -1,0 +1,5 @@
+#cmakedefine USE_LOCAL
+#cmakedefine USE_CELLO
+#cmakedefine USE_FRUNZIK
+#cmakedefine USE_MPC
+#cmakedefine USE_COCOOS

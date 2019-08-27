@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/fruncellompc.dir/src/func01.c.o CMakeFiles/fruncellompc.dir/fruncellompc.c.o CMakeFiles/fruncellompc.dir/local/src/local.c.o  -o fruncellompc -Wl,-rpath,/mnt/d/dev/cmake/build/frunzik:/mnt/d/dev/cmake/build/cello frunzik/libfrunzik.so cello/libcello.so 
